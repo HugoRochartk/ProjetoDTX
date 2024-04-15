@@ -1,0 +1,32 @@
+[
+  {
+    "jogo": "2015-02-21 - 18-00 Chelsea 1 - 1 Burnley",
+    "model": "openai/whisper-tiny",
+    "run_time_per_game": "7:52",
+    "transcricao": "Maran Koja, the second man, Manaoja, the father of the barley, has also said that in the first part of the league, and in which the second player won the Chelsea 1-3, the third player won the first one, and that he remembered that he was from the last one, and he ended up remontating, but he has to remember without any difficulties. Exactly, I just said that he was going to say, remember that very well, he started winning the barley, Mark Ungol,"
+  },
+  {
+    "jogo": "2015-02-21 - 18-00 Chelsea 1 - 1 Burnley",
+    "model": "openai/whisper-base",
+    "run_time_per_game": "13:34",
+    "transcricao": "Marco Jalduelo manages the ball's penalty. You have to say that they also gave the first game of Liga and in that match he won the Chelsea 1-3. The ball went forward. You have to remember that it went forward and ended up not remembering that much difficult. Exactly, what he was saying, I remember that game, he started the penalty and scored a goal, but the Chelsea won it. That's why he should have problems today, but as he said, football is"
+  },
+  {
+    "jogo": "2015-02-21 - 18-00 Chelsea 1 - 1 Burnley",
+    "model": "openai/whisper-small",
+    "run_time_per_game": "34:52",
+    "transcricao": "Moarran Coya, the duel, the Barley's ball is in control. They also got the first game of the league, and Chelsea won 1-3 in that match. The Barley got ahead of themselves. They had to remember that they got ahead of themselves and ended up getting back on the pitch. They had to remember that Chelsea had too many difficulties. Exactly, that's what I was going to say. I remember that match very well, the Barley started well, scored a goal, but Chelsea won it comfortably."
+  },
+  {
+    "jogo": "2015-02-21 - 18-00 Chelsea 1 - 1 Burnley",
+    "model": "openai/whisper-medium",
+    "run_time_per_game": "85:36",
+    "transcricao": "The duel has begun, Barley's ball is in the air. They also met in the first game of the league, and in that match Chelsea won 1-3. Barley went ahead. You have to remember that he went ahead in that game and ended up going back without too many difficulties. Exactly, that's what I was going to say. I remember that game very well. Barley started well, scored a goal, but Chelsea won comfortably. That's why today shouldn't have any problems either,"
+  },
+  {
+    "jogo": "2015-02-21 - 18-00 Chelsea 1 - 1 Burnley",
+    "model": "openai/whisper-large",
+    "run_time_per_game": "173:11",
+    "transcricao": "The duel has started, Barley is in control of the ball. It must be said that they also met in the first league match and in that match Chelsea won 1-3. Barley was ahead. We must remember that he was ahead in that match and ended up going back without too many difficulties for Chelsea. Exactly, that's what I was going to say. I remember that match very well. Barley started well, scored a goal, but Chelsea won it comfortably. That's why today he shouldn't have any problems either,"
+  }
+]
