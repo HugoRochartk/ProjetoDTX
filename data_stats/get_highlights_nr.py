@@ -6,9 +6,11 @@ print(df['label'])
 
 h_c = 0
 nh_c = 0
-for elem in df['label']:
+
+for i, elem in enumerate(df['label']):
     if elem == 'Highlight':
         h_c += 1
+
     else:
         nh_c += 1
 

@@ -2,13 +2,13 @@ import pandas as pd
 
 
 
-df = pd.read_csv('C:\\Users\\HugoRocha\\Desktop\\ProjetoDTX\dataframes\\multi_labeled_dataframe.csv', sep=';')
+df2 = pd.read_csv('C:\\Users\\HugoRocha\\Desktop\\ProjetoDTX\dataframes\\multi_labeled_dataframe.csv', sep=';')
 
 
 counter = {}
 
 
-for s in list(df['possible_labels']):
+for s in list(df2['possible_labels']):
 
     splitted = s.split('/')
     for label in splitted:
@@ -19,5 +19,3 @@ for s in list(df['possible_labels']):
 
 
 print(sorted(list(counter.items()), key = lambda x: -x[1]))
-
-
